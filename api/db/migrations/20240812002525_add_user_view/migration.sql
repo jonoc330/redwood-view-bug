@@ -1,0 +1,2 @@
+CREATE OR REPLACE VIEW "UserView" AS
+SELECT * FROM "public"."User";
